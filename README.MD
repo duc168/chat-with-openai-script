@@ -11,7 +11,7 @@ Just a python script to quickly chat with OpenAI. You can modify it base on your
 - Run `pip install dotenv`
 
 ## Pre-run:
-- Add `.env` with information like in `.env.example`
+- Create `.env` file within the root folder of this repository with information like in `.env.example`, you should input your OpenAI API Key and Organization ID here.
 
 
 ## Run:
