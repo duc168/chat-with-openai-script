@@ -1,6 +1,8 @@
 # Chat With OpenAI Script
 Just a python script to quickly chat with OpenAI. You can modify it base on your appetite.
 
+![Preview Chatbot](preview-chat.png)
+
 ## Requirements:
 - Python 3.9.4 or higher
 - pip that works with Python 3.9.4 or higher
@@ -18,6 +20,7 @@ Just a python script to quickly chat with OpenAI. You can modify it base on your
 ## Run:
 - Open your `chatgpt.py` file in VS Code, press F5 and enjoy.
 
+![Preview Chatbot](vscode.png)
 ## Stop:
 - Type `quit` to stop.
 
