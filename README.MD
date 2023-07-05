@@ -15,7 +15,7 @@ Just a python script to quickly chat with OpenAI. You can modify it base on your
 
 
 ## Run:
-- Open your `chatgpt.py` file, press F5 and enjoy.
+- Open your `chatgpt.py` file in VS Code, press F5 and enjoy.
 
 ## Stop:
 - Type `quit` to stop.
