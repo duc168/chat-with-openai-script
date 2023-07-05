@@ -5,6 +5,7 @@ Just a python script to quickly chat with OpenAI. You can modify it base on your
 - Python 3.9.4 or higher
 - pip that works with Python 3.9.4 or higher
 - OpenAI API Key and Organization ID
+- VS Code (latest version)
 
 ## Install:
 - Run `pip install openai`
